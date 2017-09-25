@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inheritJdk="true">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="antlr-2.7.7.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/antlr-2.7.7.jar!/"/>
+	</lib>
+	<lib name="c3p0-0.9.2.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/c3p0-0.9.2.1.jar!/"/>
+	</lib>
+	<lib name="commons-beanutils-1.8.3.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-beanutils-1.8.3.jar!/"/>
+	</lib>
+	<lib name="commons-lang-2.6.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-lang-2.6.jar!/"/>
+	</lib>
+	<lib name="commons-logging-1.1.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-logging-1.1.1.jar!/"/>
+	</lib>
+	<lib name="dom4j-1.6.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/dom4j-1.6.1.jar!/"/>
+	</lib>
+	<lib name="google-collections-1.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/google-collections-1.0.jar!/"/>
+	</lib>
+	<lib name="hibernate-c3p0-4.2.21.Final.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/hibernate-c3p0-4.2.21.Final.jar!/"/>
+	</lib>
+	<lib name="hibernate-commons-annotations-4.0.2.Final.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/hibernate-commons-annotations-4.0.2.Final.jar!/"/>
+	</lib>
+	<lib name="hibernate-core-4.2.21.Final.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/hibernate-core-4.2.21.Final.jar!/"/>
+	</lib>
+	<lib name="hibernate-jpa-2.0-api-1.0.1.Final.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/hibernate-jpa-2.0-api-1.0.1.Final.jar!/"/>
+	</lib>
+	<lib name="javassist-3.18.1-GA.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/javassist-3.18.1-GA.jar!/"/>
+	</lib>
+	<lib name="jboss-logging-3.1.0.GA.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/jboss-logging-3.1.0.GA.jar!/"/>
+	</lib>
+	<lib name="jstl-1.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/jstl-1.2.jar!/"/>
+	</lib>
+	<lib name="log4j.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/log4j.jar!/"/>
+	</lib>
+	<lib name="mchange-commons-java-0.2.3.4.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/mchange-commons-java-0.2.3.4.jar!/"/>
+	</lib>
+	<lib name="ojdbc14.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/ojdbc14.jar!/"/>
+	</lib>
+	<lib name="servlet-api.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/servlet-api.jar!/"/>
+	</lib>
+	<lib name="slf4j-api-1.5.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/slf4j-api-1.5.0.jar!/"/>
+	</lib>
+	<lib name="slf4j-log4j12-1.5.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/slf4j-log4j12-1.5.0.jar!/"/>
+	</lib>
+	<lib name="spring-aop-4.2.2.RELEASE.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/spring-aop-4.2.2.RELEASE.jar!/"/>
+	</lib>
+	<lib name="spring-beans-4.2.2.RELEASE.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/spring-beans-4.2.2.RELEASE.jar!/"/>
+	</lib>
+	<lib name="spring-context-4.2.2.RELEASE.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/spring-context-4.2.2.RELEASE.jar!/"/>
+	</lib>
+	<lib name="spring-context-support-4.2.2.RELEASE.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/spring-context-support-4.2.2.RELEASE.jar!/"/>
+	</lib>
+	<lib name="spring-core-4.2.2.RELEASE.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/spring-core-4.2.2.RELEASE.jar!/"/>
+	</lib>
+	<lib name="spring-expression-4.2.2.RELEASE.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/spring-expression-4.2.2.RELEASE.jar!/"/>
+	</lib>
+	<lib name="spring-jdbc-4.2.2.RELEASE.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/spring-jdbc-4.2.2.RELEASE.jar!/"/>
+	</lib>
+	<lib name="spring-orm-4.2.2.RELEASE.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/spring-orm-4.2.2.RELEASE.jar!/"/>
+	</lib>
+	<lib name="spring-security-acl-4.0.2.RELEASE.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/spring-security-acl-4.0.2.RELEASE.jar!/"/>
+	</lib>
+	<lib name="spring-security-config-4.0.2.RELEASE.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/spring-security-config-4.0.2.RELEASE.jar!/"/>
+	</lib>
+	<lib name="spring-security-core-4.0.2.RELEASE.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/spring-security-core-4.0.2.RELEASE.jar!/"/>
+	</lib>
+	<lib name="spring-security-taglibs-4.0.2.RELEASE.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/spring-security-taglibs-4.0.2.RELEASE.jar!/"/>
+	</lib>
+	<lib name="spring-security-web-4.0.2.RELEASE.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/spring-security-web-4.0.2.RELEASE.jar!/"/>
+	</lib>
+	<lib name="spring-test-4.2.2.RELEASE.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/spring-test-4.2.2.RELEASE.jar!/"/>
+	</lib>
+	<lib name="spring-tx-4.2.2.RELEASE.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/spring-tx-4.2.2.RELEASE.jar!/"/>
+	</lib>
+	<lib name="spring-web-4.2.2.RELEASE.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/spring-web-4.2.2.RELEASE.jar!/"/>
+	</lib>
+	<lib name="spring-webmvc-4.2.2.RELEASE.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/spring-webmvc-4.2.2.RELEASE.jar!/"/>
+	</lib>
+	<lib name="mysql-connector-java-5.1.35.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/mysql-connector-java-5.1.35.jar!/"/>
+	</lib>
+	<lib name="jboss-transaction-api_1.2_spec-1.0.0.Final.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.0.0.Final.jar!/"/>
+	</lib>
+	<levels>
+		<level name="apache-tomcat-8.5" value="project"/>
+	</levels>
+</component>
