@@ -97,7 +97,7 @@
 
 	<!-- 配置异常处理 -->
 	<error-page>
-		<exception-type>javax.servle.ServletException</exception-type>
+		<exception-type>javax.servlet.ServletException</exception-type>
 		<location>/error.html</location>
 	</error-page>
 	<error-page>
