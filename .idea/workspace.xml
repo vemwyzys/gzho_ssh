@@ -7,35 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4799e0a2-461c-4bd2-8931-782053cc5ce4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/apache_tomcat_8_5.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/com/gzho/controller/Huha.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/com/gzho/controller/TestSpringmvc.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/com/gzho/dao/BaseDao.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/com/gzho/dao/BaseSessionFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/com/gzho/dao/CategoryDAO.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/com/gzho/dao/impl/BaseDaoImpl$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/com/gzho/dao/impl/BaseDaoImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/com/gzho/entity/Category.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/com/gzho/entity/Person.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/com/gzho/service/BaseService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/com/gzho/service/CategoryService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/com/gzho/service/impl/BaseServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/com/gzho/service/impl/CategoryServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/com/gzho/test/BasicTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/com/gzho/test/TestSSH.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/com/gzho/test/TestSSH_DBlink.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/com/gzho/test/TestSSH_Spring.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/com/gzho/test/TestSSH_service.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/com/td/util/page/Page.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/com/td/util/page/PageResultSet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/com/td/util/page/SearchProp.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.classpath" afterPath="$PROJECT_DIR$/.classpath" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebContent/WEB-INF/errors/404.jsp" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/errors/404.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebContent/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gzho_ssh.eml" afterPath="$PROJECT_DIR$/gzho_ssh.eml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gzho_ssh.iml" afterPath="$PROJECT_DIR$/gzho_ssh.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/build/classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -428,12 +400,20 @@
       <workItem from="1512633904016" duration="601000" />
       <workItem from="1513587079147" duration="733000" />
       <workItem from="1513647996004" duration="1732000" />
-      <workItem from="1513651001194" duration="6130000" />
+      <workItem from="1513651001194" duration="6160000" />
     </task>
+    <task id="LOCAL-00001" summary="2017.12.19">
+      <created>1513674040682</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1513674040682</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14877000" />
+    <option name="totallyTimeSpent" value="14907000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -481,6 +461,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+    <MESSAGE value="2017.12.19" />
+    <option name="LAST_COMMIT_MESSAGE" value="2017.12.19" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
